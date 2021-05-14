@@ -803,5 +803,13 @@ img {
     font-size: 16px;
     color: var(--text-black-600);
     margin: 0;
-    line-height: ;
+    line-height:26px ;
+}
+
+/* Portfolio section */
+
+.portfolio-section{
+  padding: 80px 0 80px;
+  min-height: 100vh;
+
 }
